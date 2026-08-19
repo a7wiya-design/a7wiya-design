@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🎓 Certificates
+
+### freeCodeCamp
+- 🌐 [Responsive Web Design Certification](https://www.freecodecamp.org/certification/fcc-f018b2c3-ec68-4063-9686-25b7e51294c3/responsive-web-design-v9)
+
+### Kaggle
+- 🐍 [Python Certification](https://www.kaggle.com/learn/certification/a7wiya/python)
