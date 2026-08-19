@@ -23,16 +23,9 @@ Here are some ideas to get you started:
 ### Kaggle
 - 🐍 [Python Certification](https://www.kaggle.com/learn/certification/a7wiya/python)
 
-- projects
-- BMI Tracker App
-A responsive BMI calculator built with HTML, CSS, and JavaScript, featuring:
+## 🧮 Projects
 
-Live BMI calculation
+### BMI Tracker App
+A responsive BMI calculator built with HTML, CSS, and JavaScript.
 
-Health status indicator
-
-Personalised advice box
-
-Image slideshow
-
-Clean, modern UI
+🔗 Repository: https://github.com/a7wiya-design/bmi-tracker
